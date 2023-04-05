@@ -1,3 +1,3 @@
-# Brain-Stroke-Prediction
+# Brain-Stroke-Prediction using Deep Learning
 
   An interruption in the flow of blood to the brain causes a stroke. According to a recent study, brain stroke is the main cause of adult death and disability. According to the World Health Organization (WHO), brain stroke is the leading cause of death and property damage globally. A stroke's chance of death can be reduced by up to 50% by early recognition of its signs and symptoms. Adults over 55 are more prone than younger adults to experience a stroke. This incapacitating and frequently fatal type of stroke, which causes cerebral hemorrhage, is becoming more common. To forecast the likelihood that a cerebral stroke would occur, numerous machine learning (ML) models were created.
